@@ -1,0 +1,6 @@
+https://developer.mozilla.org/es/docs/Web/HTML/Elemento/head
+https://developer.mozilla.org/es/docs/Web/HTML/Elemento/html
+https://developer.mozilla.org/es/docs/Web/HTML/Elemento/body
+https://developer.mozilla.org/es/docs/Web/HTML/Elemento/address
+https://validator.w3.org/
+https://developer.mozilla.org/es/docs/Web/HTML/Elemento/head
